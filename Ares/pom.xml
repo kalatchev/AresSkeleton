@@ -4,7 +4,6 @@
   <artifactId>Ares</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
-  <description>Arenal reference result service</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
@@ -49,4 +48,6 @@
   	<url>http://www.skyware-group.com</url>
   </organization>
   <name>Ares</name>
+  <url>https://github.com/kalatchev/AresSkeleton</url>
+  <description>Ares is Arenal's reference result server implementation.</description>
 </project>
