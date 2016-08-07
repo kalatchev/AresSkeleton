@@ -54,7 +54,8 @@ div.Main {
 				style="font-weight: bold;"><%=provider.name%></span></a><br />
 			<%=provider.city + " " + provider.postalCode%><br />
 			<%=provider.address%><br />
-			тел.: <%=provider.phone1%>
+			тел.: <%=provider.phone1%><br />
+			РЗИ код: <%=provider.practiceCode%>
 		</p>
 		<p>
 			<hr/>
