@@ -1,4 +1,4 @@
-![Logo](http://awp.skyware-group.com/wp-content/uploads/2015/07/cropped-arenal-logo2.png "Logo")
+![Logo](http://awp.skyware-group.com/wp-content/uploads/2015/07/HowItWorksPublic.png "Logo")
 # Ares
 ## Ares Skeleton Projеct
 
